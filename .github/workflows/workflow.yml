@@ -2,7 +2,7 @@ name: reviewdog
 on: [pull_request]
 jobs:
   linter:
-    name: linter
+    name: runner / linter
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -16,3 +16,4 @@ jobs:
           patterns: '**/*.md'
           language: 'pl'
           disabled_rules: ''
+          disabled_categories: ''

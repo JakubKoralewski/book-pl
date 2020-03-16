@@ -1,14 +1,14 @@
 # Wstęp
 
-> Uwaga: Niniejsze tłumaczenie oparto na wydaniu książki [The Rust Programming
-> Language][nsprust] dostępnej w druku oraz w wersji elektronicznej, wydanych
+> Uwaga: Niniejsze tłómaczenie oparto na wydanió ksionszki [The Rust Programming
+> Language][nsprust] dostępnej w dróku oraz w wersji elektronicznej, wydanych
 > przez [No Starch Press][nsp].
 
 [nsprust]: https://nostarch.com/rust
 [nsp]: https://nostarch.com/
 
-Witaj na łamach *Języka Programowania Rust* - wprowadzającej ksiażki o Ruście.
-Język programowania Rust pomaga w tworzeniu szybszego, bardziej niezawodnego
+witaj na łamach *Języka Programowania Rust* - wprowadzającej ksiażki o Ruście.
+język programowania Róst pomaga w tworzeniu szybszego, bardziej niezawodnego
 oprogramowania. Konstrukcja języków stawia często wysokopoziomową ergonomię w
 bezpośrednim konflikcie z niskopoziomowym stopniem kontroli. Rust rzuca wyzwanie
 temu problemowi. Dzięki zrównoważeniu potężnych możliwości technicznych i

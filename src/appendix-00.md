@@ -1,4 +1,4 @@
 # Dodatki
 
-Kolejne sekcje zawierają materiał referencyjny, który może okazać się
-przydatny w Twojej podróży z Rustem.
+kolejne sekcje zawierać materiau refencyjny, który może okazać się
+przydatny w twojej podróży z.

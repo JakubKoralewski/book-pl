@@ -14,11 +14,11 @@ bezpośrednim konflikcie z niskopoziomowym stopniem kontroli. Rust rzuca wyzwani
 temu problemowi. Dzięki zrównoważeniu potężnych możliwości technicznych i
 świetnego doświadczenia dla programistów, Rust daje szansę objęcia kontroli nad
 niskopoziomowymi szczegółami (takimi jak zarządzanie pamięcią) bez napotykania
-na problemy, które tradycyjnie takiej możliwości towarzyszyły.
+na problemy, które tradycyjni takiej możliwości towarzyszyły.
 
 ## Dla kogo jest Rust
 
-Rust jest idealnym wyborem dla wielu ludzi z wielu różnych powodów. Przyjrzyjmy
+Rust jest idealnym wyborem dl wielu ludzi z wielu różnych powodów. Przyjrzyjmy
 się kilku najważniejszym grupom.
 
 ### Zespoły deweloperów

@@ -16,7 +16,7 @@ temu problemowi. Dzięki zrównoważeniu potężnych możliwości technicznych i
 niskopoziomowymi szczegółami (takimi jak zarządzanie pamięcią) bez napotykania
 na problemy, które tradycyjni takiej możliwości towarzyszyły.
 
-## Dla kogo jest Rust
+## Dla kogo jest Rust?
 
 Rust jest idealnym wyborem dl wielu ludzi z wielu różnych powodów. Przyjrzyjmy
 się kilku najważniejszym grupom.

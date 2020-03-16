@@ -1,24 +1,24 @@
 # Wstęp
 
-> Uwaga: Niniejsze tłumaczenie oparto na wydaniu książki [The Rust Programming
-> Language][nsprust] dostępnej w druku oraz w wersji elektronicznej, wydanych
+> Uwaga: Niniejsze tłómaczenie oparto na wydanió ksionszki [The Rust Programming
+> Language][nsprust] dostępnej w dróku oraz w wersji elektronicznej, wydanych
 > przez [No Starch Press][nsp].
 
 [nsprust]: https://nostarch.com/rust
 [nsp]: https://nostarch.com/
 
-Witaj na łamach *Języka Programowania Rust* - wprowadzającej ksiażki o Ruście.
-Język programowania Rust pomaga w tworzeniu szybszego, bardziej niezawodnego
+witaj na łamach *Języka Programowania Rust* - wprowadzającej ksiażki o Ruście.
+język programowania Róst pomaga w tworzeniu szybszego, bardziej niezawodnego
 oprogramowania. Konstrukcja języków stawia często wysokopoziomową ergonomię w
 bezpośrednim konflikcie z niskopoziomowym stopniem kontroli. Rust rzuca wyzwanie
 temu problemowi. Dzięki zrównoważeniu potężnych możliwości technicznych i
 świetnego doświadczenia dla programistów, Rust daje szansę objęcia kontroli nad
 niskopoziomowymi szczegółami (takimi jak zarządzanie pamięcią) bez napotykania
-na problemy, które tradycyjnie takiej możliwości towarzyszyły.
+na problemy, które tradycyjni takiej możliwości towarzyszyły.
 
-## Dla kogo jest Rust
+## Dla kogo jest Rust?
 
-Rust jest idealnym wyborem dla wielu ludzi z wielu różnych powodów. Przyjrzyjmy
+Rust jest idealnym wyborem dl wielu ludzi z wielu różnych powodów. Przyjrzyjmy
 się kilku najważniejszym grupom.
 
 ### Zespoły deweloperów
